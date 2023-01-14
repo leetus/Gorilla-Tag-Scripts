@@ -20,3 +20,4 @@ new WaitForSeconds(1);
 new WaitForSeconds(1);
       objectDisable.SetActive(false);
    }
+}
